@@ -2,7 +2,7 @@
 title: Home
 sections:
   - title: プロジェクトN C班
-    subtitle: N高等学校
+    subtitle: N高等学校・プロジェクトN
     features: []
     feature_padding_vert: medium
     align: center
