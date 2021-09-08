@@ -181,17 +181,8 @@ sections:
         image: images/download20210703105521.png
       - title: 天沢 優心(ユウシン)
         subtitle: 2年生・テニス部
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          **誠実で大人しく人懐っこいところがある。しかし、時々核心に迫るような発言をすることも。**
         actions: []
         image_alt: lorem-ipsum
         media_position: top
