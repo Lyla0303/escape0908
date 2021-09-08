@@ -21,7 +21,7 @@ sections:
     actions: []
     image_alt: A smiling woman
     media_position: top
-    media_width: fifty
+    media_width: sixty
     align: left
     padding_top: large
     padding_bottom: large
