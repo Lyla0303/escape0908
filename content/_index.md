@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - title: プロジェクトN C班
+  - title: C班・脱出ゲーム
     subtitle: N高等学校・プロジェクトN
     features: []
     feature_padding_vert: medium
