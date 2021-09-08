@@ -165,7 +165,15 @@ sections:
         subtitle: 2年生・美術部
         content: |
           ノゾミと仲がいい。穏やかで温厚だが、みんなからは不思議ちゃんと言われている。
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
         image_alt: lorem-ipsum
         media_position: top
         media_width: fifty
