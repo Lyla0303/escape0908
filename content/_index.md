@@ -161,8 +161,7 @@ sections:
         media_width: sixty
         align: left
         image: images/download20210705004534.png
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
