@@ -56,7 +56,7 @@ sections:
     type: cta_section
   - title: 形式・所要時間
     subtitle: Mへの餞
-    title_align: center
+    title_align: left
     content: |
       ## 体験型脱出ゲーム
 
