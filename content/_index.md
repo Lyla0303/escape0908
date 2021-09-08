@@ -54,7 +54,7 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
   - title: 形式・所要時間
-    subtitle: lorem-ipsum
+    subtitle: Mへの餞
     title_align: left
     content: >
       ## 体験型脱出ゲーム
