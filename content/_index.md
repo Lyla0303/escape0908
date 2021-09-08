@@ -214,7 +214,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
-        subtitle: 2年生・
+        subtitle: 2年生・テニス部
     feature_padding_vert: large
     align: center
     background_color: none
