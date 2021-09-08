@@ -44,7 +44,7 @@ sections:
     actions: []
     actions_position: top
     actions_width: fifty
-    align: left
+    align: center
     padding_top: medium
     padding_bottom: medium
     has_border: false
