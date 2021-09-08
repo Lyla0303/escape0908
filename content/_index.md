@@ -149,7 +149,15 @@ sections:
         subtitle: 2年生・美術部
         content: |
           仲がいい
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
         image_alt: lorem-ipsum
         media_position: right
         media_width: fifty
