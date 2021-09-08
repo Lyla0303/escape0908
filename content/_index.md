@@ -162,7 +162,7 @@ sections:
         align: left
         image: images/download20210705004534.png
       - title: 如月 雫(シズク)
-        subtitle: 2年生・
+        subtitle: 2年生・美術部
         content: >-
           ## Lorem ipsum
 
