@@ -53,7 +53,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
-  - title: ルール
+  - title: 形式・所要時間
     subtitle: lorem-ipsum
     title_align: left
     content: >-
