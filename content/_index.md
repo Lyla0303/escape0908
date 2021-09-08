@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Mへの餞
-    subtitle: とある中学校からの脱出
+    subtitle: 〜とある中学校からの脱出〜
     actions: []
     image_alt: A smiling woman
     media_position: right
