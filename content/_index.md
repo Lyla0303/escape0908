@@ -175,7 +175,7 @@ sections:
             new_window: false
             no_follow: false
         image_alt: lorem-ipsum
-        media_position: top
+        media_position: right
         media_width: fifty
         align: left
         image: images/download20210703105521.png
