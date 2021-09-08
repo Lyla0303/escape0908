@@ -4,10 +4,7 @@ sections:
   - type: hero_section
     title: Mへの餞
     subtitle: とある中学校からの脱出
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: primary
+    actions: []
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
