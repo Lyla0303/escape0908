@@ -151,7 +151,7 @@ sections:
           仲がいい
         actions: []
         image_alt: lorem-ipsum
-        media_position: bottom
+        media_position: right
         media_width: fifty
         align: left
         image: images/download20210705004534.png
