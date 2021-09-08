@@ -87,7 +87,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
   - type: grid_section
-    title: Trusted by Companies Big and Small
+    title: OP動画
     subtitle: Mへの餞
     align: center
     grid_items:
