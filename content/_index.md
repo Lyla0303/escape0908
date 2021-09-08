@@ -161,7 +161,7 @@ sections:
         media_width: sixty
         align: left
         image: images/download20210705004534.png
-      - title: 如月 雫()
+      - title: 如月 雫(シズク)
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
