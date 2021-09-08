@@ -22,7 +22,7 @@ sections:
     image_alt: A smiling woman
     media_position: top
     media_width: sixty
-    align: center
+    align: right
     padding_top: large
     padding_bottom: large
     background_color: primary
