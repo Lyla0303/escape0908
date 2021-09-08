@@ -123,7 +123,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/download20210703105537-removebg-preview.png
+        image: images/download20210703105537.png
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
