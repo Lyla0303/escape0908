@@ -3,7 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: ススム
-    subtitle: Fill out the form below and I will get in touch within 1 business day.
+    subtitle: 2年生・
     align: center
     padding_top: medium
     padding_bottom: medium
