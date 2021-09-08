@@ -56,17 +56,15 @@ sections:
   - title: 形式・所要時間
     subtitle: Mへの餞
     title_align: left
-    content: >
+    content: |
       ## 体験型脱出ゲーム
 
+      参加者の皆様には、好きな登場人物を1人選んでいただき、その人物の情報や行動を元に謎を解明していただきます。
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      *   Lorem ipsum
-
-      *   dolor sit amet
+      *   時間：45~60分
+      *   人数：5人
+      *   形式：Webサイトのみを使用
+      *   注意：嘘やごまかしは可能ですが、あまりお勧めしません。
     content_align: left
     form_position: bottom
     form_width: fifty
