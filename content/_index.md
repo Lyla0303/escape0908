@@ -142,7 +142,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: images/download20210703105951.png
-        image_alt: Feature 3 illustration
+        image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
       - title: 宮間 湊音(ミナト)
