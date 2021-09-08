@@ -170,7 +170,7 @@ sections:
             url: '#'
             style: primary
             has_icon: true
-            icon: arrow-right
+            icon: arrow-left
             icon_position: right
             new_window: false
             no_follow: false
