@@ -184,7 +184,7 @@ sections:
         content: |
           **誠実で大人しく人懐っこいところがある。しかし、時々核心に迫るような発言をすることも。**
         actions:
-          - label: lorem-ipsum
+          - label: ユウシンを選ぶ
             url: '#'
             style: link
             has_icon: false
