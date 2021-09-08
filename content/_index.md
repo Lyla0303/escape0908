@@ -202,7 +202,7 @@ sections:
           **ルックスも良く、いつもグループの中心にいて誰からも好かれるような性格。**
         actions: []
         image_alt: lorem-ipsum
-        media_position: top
+        media_position: right
         media_width: fifty
         align: left
         subtitle: 2年生・テニス部
