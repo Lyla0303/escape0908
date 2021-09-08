@@ -166,7 +166,7 @@ sections:
         content: |
           ノゾミと仲がいい。穏やかで温厚だが、みんなからは不思議ちゃんと言われている。
         actions:
-          - label: 'シズク '
+          - label: シズクを選ぶ
             url: '#'
             style: link
             has_icon: false
