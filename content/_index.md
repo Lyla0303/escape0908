@@ -145,7 +145,7 @@ sections:
         image_alt: Feature 3 illustration
         media_position: right
         media_width: sixty
-      - title: lorem-ipsum
+      - title: lorem-ipsum(ミナト)
         subtitle: lorem-ipsum
         content: |
           仲がいい
