@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - title: lorem-ipsum
+  - title: プロジェクトN C班
     subtitle: N高等学校
     features: []
     feature_padding_vert: medium
