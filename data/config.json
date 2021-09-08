@@ -18,11 +18,6 @@
                 "label": "質問集",
                 "url": "/faq",
                 "style": "link"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact",
-                "style": "link"
             }
         ],
         "has_secondary_nav": true,
