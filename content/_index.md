@@ -163,17 +163,8 @@ sections:
         image: images/download20210705004534.png
       - title: 如月 雫(シズク)
         subtitle: 2年生・美術部
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          ノゾミと仲がいい。穏やかで温厚だが、みんなからは不思議ちゃんと言われている。
         actions: []
         image_alt: lorem-ipsum
         media_position: top
