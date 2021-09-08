@@ -33,17 +33,14 @@ sections:
       ######
       ![](images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202021-09-08%2010.10.25-58db69e4.png)
   - title: あらすじ
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ##### これは、私立藤宮中学校で起きた事とその友人たちのお話。
 
+      私立藤宮中学校のミコト、ミナト、ススム、ノゾミ、ユウシン、シズクは同学年で毎日一緒に帰るほど仲が良かった。
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      夏休みがもう目の前へと迫っていた今日は、自由登校日。
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      それぞれ部活に参加したり、友人とお話ししていたそんなある日の、夕暮れの物語。
     actions: []
     actions_position: bottom
     actions_width: fourty
