@@ -144,7 +144,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: 宮間 湊音(ミナト)
-        subtitle: 2年生・美術部
+        subtitle: 2年生・科学部
         content: |
           仲がいい
         actions:
