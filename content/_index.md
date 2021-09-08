@@ -114,10 +114,8 @@ sections:
     features:
       - title: ススム
         subtitle: 2年生・バスケ部所属
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: |
+          ミナトと幼馴染で同級生。よくミナトの相談役になっていた。
         actions:
           - label: See Writing Samples
             url: /faq
