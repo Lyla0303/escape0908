@@ -198,7 +198,6 @@ sections:
         align: left
         image: images/download20210703103039.png
       - title: 宮間 命音(ミコト)
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
