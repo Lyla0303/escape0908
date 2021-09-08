@@ -23,7 +23,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Style Guide",
+                "label": "後日談",
                 "url": "/style-guide",
                 "style": "link"
             },
