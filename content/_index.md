@@ -112,7 +112,7 @@ sections:
     title: 登場人物一覧
     subtitle: 私立藤宮中学校
     features:
-      - title: Content Creation
+      - title: ススム
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
