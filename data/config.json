@@ -13,11 +13,6 @@
                 "label": "ルール・進行",
                 "url": "/about",
                 "style": "link"
-            },
-            {
-                "label": "質問集",
-                "url": "/faq",
-                "style": "link"
             }
         ],
         "has_secondary_nav": true,
