@@ -117,7 +117,7 @@ sections:
         content: |
           #### **ミナトと幼馴染で同級生。ミナトの相談に乗っているほどの信頼関係がある。**
         actions:
-          - label: See Writing Samples
+          - label: ススムを選ぶ
             url: /faq
             style: primary
             has_icon: true
