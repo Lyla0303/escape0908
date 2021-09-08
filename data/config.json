@@ -4,7 +4,7 @@
     "style": "classic",
     "palette": "blue",
     "mode": "light",
-    "base_font": "serif",
+    "base_font": "sans-serif",
     "footer": {
         "logo": "images/logo.svg",
         "logo_alt": "Alyvia logo",
