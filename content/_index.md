@@ -29,6 +29,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
+    image: images/スクリーンショット 2021-09-08 10.10.25-8a6b9de5.png
   - title: あらすじ
     content: |
       #### **これは、私立藤宮中学校で起きた事とその友人たちのお話。**
