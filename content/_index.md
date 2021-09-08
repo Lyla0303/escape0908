@@ -111,7 +111,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: キャラクター一覧
+    title: 登場人物一覧
     subtitle: 私立藤宮中学校
     features:
       - title: Content Creation
