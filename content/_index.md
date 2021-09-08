@@ -150,7 +150,7 @@ sections:
         content: |
           仲がいい
         actions:
-          - label: lorem-ipsum
+          - label: ミナトを選ぶ
             url: '#'
             style: link
             has_icon: false
