@@ -3,7 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: ススム
-    subtitle: 2年生・
+    subtitle: 2年生・バスケ部
     align: center
     padding_top: medium
     padding_bottom: medium
