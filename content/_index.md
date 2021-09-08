@@ -115,7 +115,7 @@ sections:
       - title: ススム
         subtitle: 2年生・バスケ部所属
         content: |
-          #### **ミナトと幼馴染で同級生。&#xA;よくミナトの相談役になっていた。**
+          #### **ミナトと幼馴染で同級生。よくミナトの相談に乗っているほどの信頼関係がある。**
         actions:
           - label: See Writing Samples
             url: /faq
