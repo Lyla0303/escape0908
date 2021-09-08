@@ -190,7 +190,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-            new_window: false
+            new_window: true
             no_follow: false
         image_alt: lorem-ipsum
         media_position: right
