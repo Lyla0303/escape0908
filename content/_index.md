@@ -179,7 +179,7 @@ sections:
         media_width: sixty
         align: left
         image: images/download20210703105521.png
-      - title: lorem-ipsum
+      - title: 天沢 優心(ユウシン)
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
