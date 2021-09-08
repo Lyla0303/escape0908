@@ -146,7 +146,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: 宮間 湊音(ミナト)
-        subtitle: lorem-ipsum
+        subtitle: 2年生
         content: |
           仲がいい
         actions: []
