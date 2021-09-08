@@ -128,7 +128,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: 田中 希（ノゾミ）
-        subtitle: 2年生
+        subtitle: 2年生・美術部
         content: >-
           I will dive into the ins and outs of your product or service and make
           sure the right information is communicated throughout your
