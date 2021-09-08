@@ -2,7 +2,7 @@
 title: Home
 sections:
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: N高等学校
     features: []
     feature_padding_vert: medium
     align: center
