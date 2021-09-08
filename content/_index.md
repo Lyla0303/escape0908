@@ -180,7 +180,7 @@ sections:
         align: left
         image: images/download20210703105521.png
       - title: 天沢 優心(ユウシン)
-        subtitle: lorem-ipsum
+        subtitle: 2年生・テニス部
         content: >-
           ## Lorem ipsum
 
