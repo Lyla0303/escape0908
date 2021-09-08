@@ -88,7 +88,7 @@ sections:
     type: form_section
   - type: grid_section
     title: Trusted by Companies Big and Small
-    subtitle: Who I work with
+    subtitle: Mへの餞
     align: center
     grid_items:
       - image: images/logo-1.svg
