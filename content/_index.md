@@ -20,7 +20,7 @@ sections:
     subtitle: 〜とある中学校からの脱出〜
     actions: []
     image_alt: A smiling woman
-    media_position: right
+    media_position: top
     media_width: fifty
     align: left
     padding_top: large
