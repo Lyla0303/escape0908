@@ -18,7 +18,15 @@ sections:
   - type: hero_section
     title: Mへの餞
     subtitle: 〜とある中学校からの脱出〜
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
