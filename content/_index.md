@@ -113,7 +113,7 @@ sections:
     subtitle: 私立藤宮中学校
     features:
       - title: ススム
-        subtitle: 'Website, blog, social media and more.'
+        subtitle: 2年生・バスケ部所属
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
