@@ -194,7 +194,7 @@ sections:
             no_follow: false
         image_alt: lorem-ipsum
         media_position: right
-        media_width: fifty
+        media_width: sixty
         align: left
         image: images/download20210703103039.png
     feature_padding_vert: large
