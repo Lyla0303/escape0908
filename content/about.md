@@ -1,5 +1,5 @@
 ---
-title: About
+title: ルール・進行
 seo:
   title: About
   description: This is the about page
