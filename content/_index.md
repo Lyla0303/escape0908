@@ -112,7 +112,7 @@ sections:
     title: 登場人物一覧
     subtitle: 私立藤宮中学校
     features:
-      - title: 斎藤　進(ススム)くん
+      - title: 斎藤 進 通称：
         subtitle: 2年生・バスケ部所属
         content: |
           #### **ミナトと幼馴染で同級生。ミナトの相談に乗っているほどの信頼関係がある。**
