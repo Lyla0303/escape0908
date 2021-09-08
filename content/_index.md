@@ -130,10 +130,8 @@ sections:
         media_width: sixty
       - title: 田中 希（ノゾミ）
         subtitle: 2年生・美術部
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: |
+          シズクと仲が良く、同じ部活に入っている。外見によらず物腰は柔らかい性格。
         actions:
           - label: ノゾミを選ぶ
             url: /faq
