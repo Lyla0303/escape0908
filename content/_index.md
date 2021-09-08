@@ -161,22 +161,6 @@ sections:
         media_width: sixty
         align: left
         image: images/download20210705004534.png
-      - content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: left
     feature_padding_vert: large
     align: center
     background_color: none
