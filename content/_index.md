@@ -197,7 +197,7 @@ sections:
         media_width: sixty
         align: left
         image: images/download20210703103039.png
-      - title: lorem-ipsum
+      - title: 宮間　命音
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
