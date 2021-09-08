@@ -43,7 +43,7 @@ sections:
       それぞれ部活に参加したり、友人とお話ししていたそんなある日の、夕暮れの物語。
     actions: []
     actions_position: top
-    actions_width: fourty
+    actions_width: fifty
     align: left
     padding_top: medium
     padding_bottom: medium
