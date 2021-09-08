@@ -198,17 +198,8 @@ sections:
         align: left
         image: images/download20210703103039.png
       - title: 宮間 命音(ミコト)
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          **ルックスも良く、いつもグループの中心にいて誰からも好かれるような性格。**
         actions: []
         image_alt: lorem-ipsum
         media_position: top
