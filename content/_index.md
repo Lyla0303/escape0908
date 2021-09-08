@@ -162,7 +162,7 @@ sections:
         align: left
         image: images/download20210705004534.png
       - title: 如月 雫(シズク)
-        subtitle: lorem-ipsum
+        subtitle: 2年生・
         content: >-
           ## Lorem ipsum
 
