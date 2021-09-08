@@ -206,6 +206,7 @@ sections:
         media_width: sixty
         align: left
         subtitle: 2年生・テニス部
+        image: images/download20210703110343.png
     feature_padding_vert: large
     align: center
     background_color: none
