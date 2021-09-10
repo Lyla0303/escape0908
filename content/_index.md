@@ -54,30 +54,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
-  - title: 形式・所要時間
-    subtitle: Mへの餞
-    title_align: left
-    content: |
-      *
-    content_align: left
-    form_position: bottom
-    form_width: fifty
-    form_layout: stacked
-    enable_card: false
-    form_id: lorem-ipsum
-    form_action: lorem-ipsum
-    form_fields: []
-    submit_label: ルール・進行へ
-    align_vert: top
-    padding_top: medium
-    padding_bottom: medium
-    has_border: true
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: form_section
   - type: features_section
     title: 登場人物一覧
     subtitle: 私立藤宮中学校
