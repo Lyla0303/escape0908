@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: エンディングC
 seo:
   title: ''
   description: ''
