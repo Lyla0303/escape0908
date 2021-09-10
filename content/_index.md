@@ -186,7 +186,7 @@ sections:
           **誠実で大人しく人懐っこいところがある。しかし、時々核心に迫るような発言をすることも。**
         actions:
           - label: ユウシンを選ぶ
-            url: '#'
+            url: /
             style: primary
             has_icon: true
             icon: arrow-right
