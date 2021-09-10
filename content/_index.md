@@ -69,7 +69,7 @@ sections:
           *   また、なるべくキャラクターの気持ちに寄り添った発言、行動をするとより楽しめるでしょう。
         actions: []
         image_alt: lorem-ipsum
-        media_position: top
+        media_position: left
         media_width: fifty
         align: left
     feature_padding_vert: medium
