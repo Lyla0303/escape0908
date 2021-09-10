@@ -192,7 +192,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-    has_border: false
+    has_border: true
 seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme
