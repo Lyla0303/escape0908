@@ -81,12 +81,6 @@ sections:
         default_value: lorem-ipsum
         options: []
         is_required: false
-      - input_type: text
-        name: lorem-ipsum
-        label: lorem-ipsum
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
     submit_label: ルール・進行へ
     align_vert: top
     padding_top: medium
