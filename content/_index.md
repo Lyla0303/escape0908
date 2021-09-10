@@ -70,7 +70,7 @@ sections:
         actions:
           - label: ルール・進行について
             url: /about
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
