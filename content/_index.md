@@ -150,7 +150,7 @@ sections:
           **ススムと仲が良く気が合う友達同士である。性格は、大人しい外見によらず策士な一面も。**
         actions:
           - label: ミナトを選ぶ
-            url: /
+            url: /pri
             style: primary
             has_icon: true
             icon: arrow-right
