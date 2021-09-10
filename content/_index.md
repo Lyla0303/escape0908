@@ -67,7 +67,15 @@ sections:
           *   注意：嘘をつくこと、事実の隠匿はキャラクターの心情に寄り添った結果すべきと判断したらしてください。
 
           *   また、なるべくキャラクターの気持ちに寄り添った発言、行動をするとより楽しめるでしょう。
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
         image_alt: lorem-ipsum
         media_position: left
         media_width: fifty
