@@ -120,7 +120,7 @@ sections:
           ###### ミナトと幼馴染で同級生。ミナトの相談に乗っているほどの信頼関係がある。
         actions:
           - label: ススムを選ぶ
-            url: /co
+            url: /contact
             style: primary
             has_icon: true
             icon: arrow-right
