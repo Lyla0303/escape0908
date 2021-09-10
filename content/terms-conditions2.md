@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections:
   - title: エンディングB
-    subtitle: lorem-ipsum
+    subtitle: ミコトは殺された
     content: >-
       ## Lorem ipsum
 
