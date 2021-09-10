@@ -2,7 +2,7 @@
 title: Thank You
 sections:
   - type: hero_section
-    title: Thank You!
+    title: クレジット
     subtitle: >-
       Thank you for contacting me. I will get back in touch with you soon. Have
       a great day!
