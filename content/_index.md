@@ -55,7 +55,7 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
   - title: ゲーム形式について
-    subtitle: lorem-ipsum
+    subtitle: Mへの餞
     features:
       - title: lorem-ipsum
         subtitle: 参加者の皆様には、好きな登場人物を1人選んでいただき、その人物の情報や行動を元に謎を解明していただきます.
