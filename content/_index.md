@@ -32,6 +32,42 @@ sections:
     content: >
       ![](images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202021-09-08%2010.46.48-83659783.png)
     background_image_position: left center
+  - title: あらすじ
+    content: |
+      #### **これは、私立藤宮中学校で起きた事とその友人たちのお話。**
+
+      私立藤宮中学校のミコト、ミナト、ススム、ノゾミ、ユウシン、シズクは同学年で毎日一緒に帰るほど仲が良かった。
+
+      夏休みがもう目の前へと迫っていた今日は、自由登校日。
+
+      それぞれ部活に参加したり、友人とお話ししていたそんなある日の、夕暮れの物語。
+    actions: []
+    actions_position: bottom
+    actions_width: fifty
+    align: left
+    padding_top: medium
+    padding_bottom: small
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: cta_section
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    features: []
+    feature_padding_vert: medium
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: features_section
   - type: features_section
     title: 登場人物一覧
     subtitle: 私立藤宮中学校
@@ -134,42 +170,6 @@ sections:
     align: center
     background_color: none
     has_border: false
-  - title: あらすじ
-    content: |
-      #### **これは、私立藤宮中学校で起きた事とその友人たちのお話。**
-
-      私立藤宮中学校のミコト、ミナト、ススム、ノゾミ、ユウシン、シズクは同学年で毎日一緒に帰るほど仲が良かった。
-
-      夏休みがもう目の前へと迫っていた今日は、自由登校日。
-
-      それぞれ部活に参加したり、友人とお話ししていたそんなある日の、夕暮れの物語。
-    actions: []
-    actions_position: bottom
-    actions_width: fifty
-    align: left
-    padding_top: medium
-    padding_bottom: small
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: cta_section
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
-    features: []
-    feature_padding_vert: medium
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
 seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme
