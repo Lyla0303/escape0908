@@ -59,17 +59,22 @@ sections:
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ##
+          **体験型脱出ゲーム**参加者の皆様には、好きな登場人物を1人選んでいただき、その人物の情報や行動を元に謎を解明していただきます。*  
+          時間：45~60分
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   人数：5人
 
 
-          - Lorem ipsum
+          *   形式：Webサイトのみを使用
 
-          - dolor sit amet
+
+          *   注意：嘘をつくこと、事実の隠匿はキャラクターの心情に寄り添った結果すべきと判断したらしてください。
+
+
+          *   また、なるべくキャラクターの気持ちに寄り添った発言、行動をするとより楽しめるでしょう。
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
