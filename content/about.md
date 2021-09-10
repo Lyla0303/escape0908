@@ -28,19 +28,26 @@ seo:
       relativeUrl: true
 layout: page
 ---
+## ルールについて
 
-![A woman using a laptop](/images/about.jpg)
+*   自分の選んだキャラクター情報を他の人に直接webサイトを見せる形で教えてはいけません。からなず、言葉にしてキャラクターの心情によりそってくださると嬉しいです。
 
-The only thing I love more than writing is the process of meeting a new client and figuring out together what needs to be written. Working on a freelance consulting basis exposes me to many types of companies with varied goals and methodologies, and keeps me up to date with all marketing tools and platforms.
+*   発言するときには、選んだキャラクターになりきった言動を推奨しています。
 
-## Credentials
+*   発言の時に、「webサイトに書いてあったから」「台本に書いてあったから」という発言はやめてください。
 
-I have a BA in English Literature and an MBA in Marketing from the University of California. I am also a certified campaign manager in all the major PPC platforms, and a staff writer in several industry publications.
+*   何か書いてあるキャラクターの情報を忘れてしまった時には、「ちょっと思い出すね」と言って、待ってもらうようにしてください。
 
-My 20 years of experience have taught me to effectively identify the audience for which I write, and explain complex concepts in a friendly and non-intimidating way.
+*
 
+## 進行について
 
+*   進行は担任の先生の言うことに従ってください。
 
-## Writing for Action
+*   先生は、先生用のページを参考に、脱出ゲームの管理をお願いします。
 
-I believe that each and every piece of writing should inspire an action that is connected to a tangible business goal. I will work with you to define our content KPIs, understand how to properly track and measure them, and hit our goals by creating effective messaging across all of your digital assets.
+*   進行表は、この下にある画像の手順で進めていきます。
+
+*   調査時間とは、webサイトのそれぞれキャラページにある事件に関する手がかりです。謎解き形式になっているので時間内に謎を解き、事件に関する情報を一つでも増やしてください。
+
+*   全体会議時間では、キャラクターの当日の行動や被害者の状態を話し合い参加者のキャラクターが容疑者から外れるように推理をして
