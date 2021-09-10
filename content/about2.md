@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 進行してくださる先生へ
 seo:
   title: ''
   description: ''
