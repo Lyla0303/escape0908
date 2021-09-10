@@ -57,7 +57,7 @@ sections:
   - title: ゲーム形式について
     subtitle: Mへの餞
     features:
-      - title: lorem-ipsum
+      - title: 体験型脱出ゲーム
         subtitle: 参加者の皆様には、好きな登場人物を1人選んでいただき、その人物の情報や行動を元に謎を解明していただきます.
         content: |
           ## ****
