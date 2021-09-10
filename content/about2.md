@@ -7,9 +7,20 @@ seo:
   extra: []
 layout: page
 ---
-## Lorem ipsum
+## 進行方法
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+基本的には、生徒の皆さんに配っている進行表に従って、声掛けをしてくれれば問題はありません。ただし、先生からの助言と言うパートでは先生がお話しをすることになっています。しっかりご確認の上、ご協力ください。
 
-- Lorem ipsum
-- dolor sit amet
+*   dolor sit amet
+
+
+
+
+
+
+
+## 解説
+
+*   今回の脱出ゲームは、生徒さんに選んでもらうキャラクターが同級生殺しの容疑がかけられた状態で始まり、真相を解き明かすか、自分以外のキャラを犯人として指名できれば脱出成功になります。
+
+*   事件の真相としては、被害者であるミコトは、街の特殊な存在である巫女という
