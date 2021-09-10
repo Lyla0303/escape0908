@@ -69,7 +69,7 @@ sections:
           *   また、なるべくキャラクターの気持ちに寄り添った発言、行動をするとより楽しめるでしょう。
         actions:
           - label: ルール・進行について
-            url: '#'
+            url: /about
             style: link
             has_icon: false
             icon: arrow-left
