@@ -18,7 +18,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "質問集",
+                "label": "先生用ページ",
                 "url": "/terms-conditions",
                 "style": "link"
             },
