@@ -86,30 +86,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - type: grid_section
-    title: OP動画
-    subtitle: Mへの餞
-    align: center
-    grid_items:
-      - image_alt: Logo 1
-        image_align: center
-      - image_alt: Logo 2
-        image_align: center
-      - image_alt: Logo 3
-        image_align: center
-      - image_alt: Logo 4
-        image_align: center
-      - image_alt: Logo 5
-        image_align: center
-      - image_alt: Logo 6
-        image_align: center
-      - image_alt: Logo 7
-        image_align: center
-      - image_alt: Logo 8
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
   - type: features_section
     title: 登場人物一覧
     subtitle: 私立藤宮中学校
