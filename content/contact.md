@@ -27,7 +27,7 @@ sections:
 
           *   dolor sit amet
         actions: []
-        image_alt: lorem-ipsum
+        image_alt: ススムの行動
         media_position: top
         media_width: fifty
         align: left
