@@ -21,7 +21,7 @@ seo:
       value: This is the terms and conditions page
 layout: page
 ---
-ミコトは自殺した。脱出成功。
+ミコトは自殺した。全員脱出成功。
 
 ## Phasellus Finibus Risus Eget
 
