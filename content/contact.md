@@ -16,17 +16,22 @@ sections:
     features:
       - title: 当日ススムが持っていたもの
         subtitle: 部活で愛用しているバッシュ
-        content: >
+        content: |
           ## ススムの背景知識について
 
+          ススムはミナトと幼馴染である。小学校も同じ所に通っておりいつも一緒にいた。
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          そのためか、ミナトの**相談相手**になることが多かった。学年は違うけど、まるで同い年のように振る舞いよくミナトの話を聞いてあげた。
 
+          相談として多かったのは、ミナトの家柄はこの街の権力者一家であることや、その後を継ぐ難しさに悩んでいたことだ。
 
-          *   Lorem ipsum
+          また、巫女という存在が代々受け継がれており、そろそろ現れる時期だと言う予言があるらしく、家は巫女を探すことで忙しいらしいとも聞いた。
 
-          *   dolor sit amet
+          そういえば、1週間前にミナトはミコトのことが好きだと最近打ち明けてくれていた。
+
+          家のことばかりで自分のことをもっと大事にして欲しいと俺はいつも感じていた。
+
+          だから、ミナトの望みを叶えてあげたいと強く思っている。うまくいくといいいんだけど。
         actions: []
         image_alt: ススムの行動
         media_position: top
