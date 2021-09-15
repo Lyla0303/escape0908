@@ -14,7 +14,7 @@ sections:
     subtitle: ススムは何をしていたの？
     features: []
     feature_padding_vert: medium
-    align: center
+    align: right
     padding_top: medium
     padding_bottom: medium
     has_border: false
