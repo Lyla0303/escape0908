@@ -33,7 +33,7 @@ sections:
 
           だから、ミナトの望みを叶えてあげたいと強く思っている。うまくいくといいいんだけど。
         actions:
-          - label: 全体議論にススム
+          - label: 全体議論へ
             url: '#'
             style: link
             has_icon: false
