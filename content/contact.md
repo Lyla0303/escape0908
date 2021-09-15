@@ -32,7 +32,15 @@ sections:
           家のことばかりで**自分のことをもっと大事にして欲しい**と俺はいつも感じていた。
 
           だから、ミナトの望みを叶えてあげたいと強く思っている。うまくいくといいいんだけど。
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
         image_alt: ススムの行動
         media_position: top
         media_width: fifty
