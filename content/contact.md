@@ -15,17 +15,17 @@ sections:
     features:
       - title: 当日ススムが持っていたもの
         subtitle: 部活で愛用しているバッシュ
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## ススムの背景知識について
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Lorem ipsum
 
-          - dolor sit amet
+          *   dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         media_position: top
