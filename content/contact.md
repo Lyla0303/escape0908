@@ -9,7 +9,7 @@ sections:
     padding_bottom: medium
     background_color: none
     image: images/download20210703105537-aed98e9f.png
-  - title: lorem-ipsum
+  - title: 当日の行動
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
