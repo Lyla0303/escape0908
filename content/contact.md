@@ -8,6 +8,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
+    image: images/download20210703105537-aed98e9f.png
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     features: []
