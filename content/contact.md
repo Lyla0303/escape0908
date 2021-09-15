@@ -31,6 +31,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        image: images/スクリーンショット 2021-09-15 11.01.45.png
     feature_padding_vert: medium
     align: left
     padding_top: medium
