@@ -10,7 +10,7 @@ sections:
     background_color: none
     image: images/download20210703105537-aed98e9f.png
   - title: 当日の行動
-    subtitle: lorem-ipsum
+    subtitle: ススムは何をしていたの？
     features: []
     feature_padding_vert: medium
     align: center
