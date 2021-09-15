@@ -13,7 +13,7 @@ sections:
   - title: 当日の行動
     subtitle: ススムは何をしていたの？
     features:
-      - title: lorem-ipsum
+      - title: 当日ススムが持っていたもの
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
