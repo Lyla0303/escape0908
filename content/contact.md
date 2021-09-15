@@ -9,6 +9,7 @@ sections:
     padding_bottom: medium
     background_color: none
     image: images/download20210703105537-aed98e9f.png
+    media_position: right
   - title: 当日の行動
     subtitle: ススムは何をしていたの？
     features: []
