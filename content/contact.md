@@ -14,7 +14,7 @@ sections:
     subtitle: ススムは何をしていたの？
     features:
       - title: 当日ススムが持っていたもの
-        subtitle: lorem-ipsum
+        subtitle: 部活で愛用しているバッシュ
         content: >-
           ## Lorem ipsum
 
