@@ -30,17 +30,17 @@ sections:
         align: left
       - title: 当日ノゾミが持っていたもの
         subtitle: 図書室で借りた巫女の逸話に関する本
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## 背景知識について
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Lorem ipsum
 
-          - dolor sit amet
+          *   dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
