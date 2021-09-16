@@ -21,17 +21,8 @@ sections:
   - title: 当日の行動
     subtitle: ノゾミは当日何をしていたの？
     features:
-      - content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+      - content: >
+          ![](images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202021-09-17%208.31.55.png)
         actions: []
         image_alt: lorem-ipsum
         media_position: top
