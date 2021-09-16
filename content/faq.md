@@ -32,6 +32,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
+    background_image: images/スクリーンショット 2021-09-17 8.31.55.png
 seo:
   title: Frequently Asked Questions
   description: This is the faq page
