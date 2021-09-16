@@ -19,7 +19,7 @@ sections:
     type: hero_section
     image: images/download20210703105951.png
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: ノゾミは当日何をしていたの？
     features: []
     feature_padding_vert: medium
     align: center
