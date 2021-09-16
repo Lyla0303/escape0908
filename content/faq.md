@@ -28,7 +28,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
-      - title: lorem-ipsum
+      - title: 当日ノゾミが持っていたもの
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
