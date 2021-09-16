@@ -22,7 +22,6 @@ sections:
     subtitle: ノゾミは当日何をしていたの？
     features:
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
