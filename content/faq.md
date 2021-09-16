@@ -1,7 +1,7 @@
 ---
 title: FAQ
 sections:
-  - title: lorem-ipsum
+  - title: ノゾミ
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
