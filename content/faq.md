@@ -29,7 +29,7 @@ sections:
         media_width: fifty
         align: left
       - title: 当日ノゾミが持っていたもの
-        subtitle: lorem-ipsum
+        subtitle: 図書室で借りた巫女の逸話に関する本
         content: >-
           ## Lorem ipsum
 
