@@ -21,8 +21,7 @@ sections:
   - title: 当日の行動
     subtitle: ノゾミは当日何をしていたの？
     features:
-      - title: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
