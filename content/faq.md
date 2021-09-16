@@ -66,7 +66,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
-      - title: lorem-ipsum
+      - title: 調査シート
         content: |+
           ## 調査シート
 
