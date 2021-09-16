@@ -1,13 +1,6 @@
 ---
 title: FAQ
 sections:
-  - type: hero_section
-    title: ノゾミ
-    subtitle: My answers
-    align: center
-    padding_top: medium
-    padding_bottom: small
-    background_color: none
   - type: grid_section
     grid_items:
       - title: What is your process?
