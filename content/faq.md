@@ -5,7 +5,7 @@ sections:
     subtitle: 2年・美術部・O型
     actions: []
     image_alt: lorem-ipsum
-    media_position: top
+    media_position: right
     media_width: fifty
     align: left
     padding_top: medium
