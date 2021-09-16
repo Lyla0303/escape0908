@@ -2,7 +2,7 @@
 title: FAQ
 sections:
   - title: ノゾミ
-    subtitle: 2年・美術部・
+    subtitle: 2年・美術部・O型
     actions: []
     image_alt: lorem-ipsum
     media_position: top
