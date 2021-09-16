@@ -18,7 +18,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/download20210703105951.png
-  - title: ノゾミの行動
+  - title: 当日の行動
     subtitle: ノゾミは当日何をしていたの？
     features: []
     feature_padding_vert: medium
