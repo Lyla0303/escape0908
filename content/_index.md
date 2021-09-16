@@ -76,7 +76,7 @@ sections:
   - title: ゲーム形式について
     subtitle: Mへの餞
     features:
-      - title: 体験型脱出ゲーム
+      - title: ストーリー体験型脱出ゲーム
         subtitle: 参加者の皆様には、好きな登場人物を1人選んでいただき、その人物の情報や行動を元に謎を解明していただきます.
         content: |
           *   人数：5人
