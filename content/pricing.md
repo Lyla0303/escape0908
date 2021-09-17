@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - title: ミナト
-    subtitle: 2年生・理科部・Rh null型
+    subtitle: 2年生・科学部・Rh null型
     content: |+
 
 
