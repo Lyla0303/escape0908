@@ -69,7 +69,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/スクリーンショット 2021-09-17 10.37.57.png
   - content: >
       ## 調査シート
 
