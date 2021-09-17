@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - title: ミナト
-    subtitle: lorem-ipsum
+    subtitle: 2年生・理科部
     content: >-
       ## Lorem ipsum
 
