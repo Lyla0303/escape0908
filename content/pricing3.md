@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - title: ユウシン
-    subtitle: 1年生・美術部・O型
+    subtitle: 2年生・美術部・O型
     content: |+
 
 
