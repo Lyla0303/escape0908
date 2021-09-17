@@ -21,3 +21,4 @@ seo:
       value: This is the privacy policy page
 layout: page
 ---
+2年生・美術部・B型
