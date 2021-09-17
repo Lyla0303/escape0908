@@ -43,7 +43,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - title: ミナトの当日の持ち物
-    subtitle: ミコトとシズクの写真
+    subtitle: ミコトとシズクの2ショット写真（破られている）
     content: >-
       ## Lorem ipsum
 
