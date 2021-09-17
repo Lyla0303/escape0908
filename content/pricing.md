@@ -28,6 +28,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    image: images/download20210705004534.png
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     features: []
