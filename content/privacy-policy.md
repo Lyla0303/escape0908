@@ -22,3 +22,4 @@ seo:
 layout: page
 ---
 2年生・美術部・B型![](images/download20210703105521.png)
+2年生・美術部・B型
