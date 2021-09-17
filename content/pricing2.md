@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: シズク
 seo:
   title: ''
   description: ''
