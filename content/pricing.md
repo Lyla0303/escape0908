@@ -22,7 +22,7 @@ sections:
     type: hero_section
     image: images/download20210705004534.png
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: ミナトは何をしていたの？
     features: []
     feature_padding_vert: medium
     align: center
