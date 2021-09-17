@@ -25,7 +25,6 @@ sections:
     subtitle: ミナトは何をしていたの？
     features:
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
