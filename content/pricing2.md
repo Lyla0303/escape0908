@@ -1,7 +1,7 @@
 ---
 title: Pricing
 sections:
-  - title: ミナト
+  - title: シズク
     subtitle: 2年生・科学部・Rh null型
     content: |+
 
