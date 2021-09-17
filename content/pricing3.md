@@ -45,7 +45,7 @@ sections:
   - title: ユウシンの当日の持ち物
     subtitle: あかい紐
     content: >
-      ## シズクの背景について
+      ## ユウシンの背景について
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
