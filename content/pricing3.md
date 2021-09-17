@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - title: ユウシン
-    subtitle: 2年生・テニス部・O型
+    subtitle: 2年生・テニス部・A型
     content: |+
 
 
