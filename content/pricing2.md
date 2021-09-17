@@ -20,7 +20,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/download20210705004534.png
+    image: images/download20210703105521.png
   - title: 当日の行動
     subtitle: ミナトは何をしていたの？
     features:
