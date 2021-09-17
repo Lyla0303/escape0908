@@ -44,17 +44,17 @@ sections:
     type: features_section
   - title: ミナトの当日の持ち物
     subtitle: ミコトとシズクの2ショット写真（破られている）
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## ミナトの背景について
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      *   Lorem ipsum
 
-      - dolor sit amet
+      *   dolor sit amet
     actions: []
     image_alt: lorem-ipsum
     media_position: top
