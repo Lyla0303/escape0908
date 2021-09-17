@@ -21,4 +21,4 @@ seo:
       value: This is the privacy policy page
 layout: page
 ---
-2年生・美術部・B型
+2年生・美術部・B型![](images/download20210703105521.png)
