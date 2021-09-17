@@ -3,17 +3,9 @@ title: Pricing
 sections:
   - title: ミナト
     subtitle: 2年生・理科部・Rh null型
-    content: >-
-      ## Lorem ipsum
+    content: |+
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     actions: []
     image_alt: lorem-ipsum
     media_position: right
