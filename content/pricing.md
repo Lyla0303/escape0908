@@ -21,7 +21,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/download20210705004534.png
-  - title: lorem-ipsum
+  - title: 当日の行動
     subtitle: ミナトは何をしていたの？
     features: []
     feature_padding_vert: medium
