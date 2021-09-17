@@ -43,7 +43,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - title: シズクの当日の持ち物
-    subtitle: ミコトとシズクの2ショット写真（破られている）
+    subtitle: あかい紐
     content: >
       ## シズクの背景について
 
