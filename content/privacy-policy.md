@@ -1,5 +1,5 @@
 ---
-title: P
+title: シズク
 seo:
   title: Privacy Policy
   description: This is the privacy policy page
