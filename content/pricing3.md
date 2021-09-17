@@ -69,11 +69,8 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - content: >+
+  - content: |+
       ## 調査シート
-
-
-      ![](images/undefined82undefinedE3undefinedAFundefined83undefinedE3undefinedBCundefined83undefinedE3undefinedB7undefined83undefinedE3undefined83undefined83undefined202021-09-17%2010.37.57.png)
 
     actions: []
     image_alt: lorem-ipsum
