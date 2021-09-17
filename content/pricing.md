@@ -70,7 +70,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     content: >
       ## 調査シート
 
