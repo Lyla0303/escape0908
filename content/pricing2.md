@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - title: シズク
-    subtitle: 2年生・科学部・Rh null型
+    subtitle: 2年生・美術部・O型
     content: |+
 
 
