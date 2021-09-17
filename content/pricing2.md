@@ -69,11 +69,12 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - content: >
+  - content: >+
       ## 調査シート
 
 
-      ![](images/undefined82undefinedE3undefinedAFundefined83undefinedE3undefinedBCundefined83undefinedE3undefinedB7undefined83undefinedE3undefined83undefined83undefined202021-09-17%2010.02.06.png)
+      ![](images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202021-09-17%2010.37.57.png)
+
     actions: []
     image_alt: lorem-ipsum
     media_position: top
