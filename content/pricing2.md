@@ -22,7 +22,7 @@ sections:
     type: hero_section
     image: images/download20210703105521.png
   - title: 当日の行動
-    subtitle: ミナトは何をしていたの？
+    subtitle: シズクは何をしていたの？
     features:
       - content: >
           ![](images/undefined82undefinedE3undefinedAFundefined83undefinedE3undefinedBCundefined83undefinedE3undefinedB7undefined83undefinedE3undefined83undefined83undefined202021-09-17%209.38.07.png)
