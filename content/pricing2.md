@@ -45,7 +45,7 @@ sections:
   - title: シズクの当日の持ち物
     subtitle: ミコトとシズクの2ショット写真（破られている）
     content: >
-      ## ミナトの背景について
+      ## シズクの背景について
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
