@@ -43,7 +43,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - title: ミナトの当日の持ち物
-    subtitle: lorem-ipsum
+    subtitle: ミコトとシズクの写真
     content: >-
       ## Lorem ipsum
 
