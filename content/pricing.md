@@ -1,7 +1,7 @@
 ---
 title: Pricing
 sections:
-  - title: lorem-ipsum
+  - title: ミナト・
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
