@@ -1,7 +1,7 @@
 ---
 title: Pricing
 sections:
-  - title: シズク
+  - title: ユウシン
     subtitle: 1年生・美術部・O型
     content: |+
 
