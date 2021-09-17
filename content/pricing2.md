@@ -42,7 +42,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - title: ミナトの当日の持ち物
+  - title: シズクの当日の持ち物
     subtitle: ミコトとシズクの2ショット写真（破られている）
     content: >
       ## ミナトの背景について
