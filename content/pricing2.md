@@ -73,7 +73,15 @@ sections:
       ##
       調査シート![](images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202021-09-22%2011.09.32-da94655b.png)
 
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
     image_alt: lorem-ipsum
     media_position: top
     media_width: fifty
