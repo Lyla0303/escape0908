@@ -43,7 +43,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - title: ユウシンの当日の持ち物
-    subtitle: あかい紐
+    subtitle: 部活で使用した服やテニス用品
     content: >
       ## ユウシンの背景について
 
