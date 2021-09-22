@@ -25,7 +25,7 @@ sections:
     subtitle: シズクは何をしていたの？
     features:
       - content: >
-          ![](images/undefined82undefinedE3undefinedAFundefined83undefinedE3undefinedBCundefined83undefinedE3undefinedB7undefined83undefinedE3undefined83undefined83undefined202021-09-17%209.38.07.png)
+          ![](images/undefined82undefinedE3undefinedAFundefined83undefinedE3undefinedBCundefined83undefinedE3undefinedB7undefined83undefinedE3undefined83undefined83undefined202021-09-17%209.38.07.png)![](images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202021-09-22%2011.13.46.png)
         actions: []
         image_alt: lorem-ipsum
         media_position: top
