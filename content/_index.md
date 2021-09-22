@@ -203,7 +203,7 @@ sections:
         image: images/download20210703103039.png
       - title: 宮間 命音(ミコト)
         content: |
-          **ルックスも良く、いつもグループの中心にいて誰からも好かれるような性格。**
+          **ルックスも良く、いつもグループの中心にいて誰からも好かれるような性格。（選択不可）**
         actions: []
         image_alt: lorem-ipsum
         media_position: right
