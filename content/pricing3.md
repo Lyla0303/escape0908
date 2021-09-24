@@ -44,17 +44,13 @@ sections:
     type: features_section
   - title: ユウシンの当日の持ち物
     subtitle: 部活で使用した服やテニス用品
-    content: >
+    content: |+
       ## ユウシンの背景について
 
+      主人公のミコトと同じテニス部である。普段はとても仲が良くミコトはユウシンになんでも話すような仲だった。
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      ミコトからの相談も受けていたので、二人の関係、ミナトがミコトのことが好きなのも知っていた。
 
-
-      *   Lorem ipsum
-
-      *   dolor sit amet
     actions: []
     image_alt: lorem-ipsum
     media_position: top
